@@ -1,0 +1,8 @@
+db.sqlite3
+requirements.txt
+settings.pyc
+
+env/
+.pytest_cache/
+.vscode/
+__pycache__/
